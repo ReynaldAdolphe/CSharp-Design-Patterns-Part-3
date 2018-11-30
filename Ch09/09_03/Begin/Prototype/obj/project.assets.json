@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v1.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Reynald Adolphe\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "restore": {
+      "projectUniqueName": "C:\\Temp4\\Exercise Files\\Ch09\\09_03\\Begin\\Prototype\\Prototype.csproj",
+      "projectName": "Prototype",
+      "projectPath": "C:\\Temp4\\Exercise Files\\Ch09\\09_03\\Begin\\Prototype\\Prototype.csproj",
+      "outputPath": "C:\\Temp4\\Exercise Files\\Ch09\\09_03\\Begin\\Prototype\\obj\\",
+      "outputType": "NETCore",
+      "originalTargetFrameworks": [
+        "netcoreapp1.1"
+      ],
+      "frameworks": {
+        "netcoreapp1.1": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp1.1": {}
+    }
+  }
+}

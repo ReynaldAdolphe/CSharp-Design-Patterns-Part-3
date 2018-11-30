@@ -1,0 +1,6 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files DP2\Ch03\03_03\Finish\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files DP2\Ch03\03_03\Finish\Adapter\bin\Debug\Adapter.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files DP2\Ch03\03_03\Finish\Adapter\bin\Debug\Adapter.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files DP2\Ch03\03_03\Finish\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files DP2\Ch03\03_03\Finish\Adapter\obj\Debug\Adapter.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files DP2\Ch03\03_03\Finish\Adapter\obj\Debug\Adapter.pdb

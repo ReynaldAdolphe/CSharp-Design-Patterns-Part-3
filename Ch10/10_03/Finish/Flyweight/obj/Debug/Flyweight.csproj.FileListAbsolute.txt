@@ -1,0 +1,5 @@
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Flyweight\bin\Debug\Flyweight.exe.config
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Flyweight\bin\Debug\Flyweight.exe
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Flyweight\bin\Debug\Flyweight.pdb
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Flyweight\obj\Debug\Flyweight.exe
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Flyweight\obj\Debug\Flyweight.pdb

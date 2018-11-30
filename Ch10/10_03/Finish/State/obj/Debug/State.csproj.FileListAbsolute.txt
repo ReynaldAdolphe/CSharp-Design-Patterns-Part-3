@@ -1,0 +1,11 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_03\Finish\State\bin\Debug\State.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_03\Finish\State\bin\Debug\State.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_03\Finish\State\bin\Debug\State.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_03\Finish\State\obj\Debug\State.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_03\Finish\State\obj\Debug\State.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch08\08_03\Finish\State\obj\Debug\State.pdb
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\State\bin\Debug\State.exe.config
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\State\bin\Debug\State.exe
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\State\bin\Debug\State.pdb
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\State\obj\Debug\State.exe
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\State\obj\Debug\State.pdb

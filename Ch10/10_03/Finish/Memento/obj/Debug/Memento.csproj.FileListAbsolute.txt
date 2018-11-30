@@ -1,0 +1,28 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Memento\bin\Debug\Memento.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Memento\bin\Debug\Memento.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Memento\bin\Debug\Memento.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Memento\obj\Debug\Memento.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Memento\obj\Debug\MainWindow.g.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Memento\obj\Debug\App.g.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Memento\obj\Debug\Memento_MarkupCompile.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Memento\obj\Debug\Memento_MarkupCompile.lref
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Memento\obj\Debug\MainWindow.baml
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Memento\obj\Debug\Memento.g.resources
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Memento\obj\Debug\Memento.Properties.Resources.resources
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Memento\obj\Debug\Memento.csproj.GenerateResource.Cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Memento\obj\Debug\Memento.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch07\07_03\Finish\Memento\obj\Debug\Memento.pdb
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Memento\bin\Debug\Memento.exe.config
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Memento\bin\Debug\Memento.exe
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Memento\bin\Debug\Memento.pdb
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Memento\obj\Debug\Memento.csprojResolveAssemblyReference.cache
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Memento\obj\Debug\MainWindow.g.cs
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Memento\obj\Debug\App.g.cs
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Memento\obj\Debug\Memento_MarkupCompile.cache
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Memento\obj\Debug\Memento_MarkupCompile.lref
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Memento\obj\Debug\MainWindow.baml
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Memento\obj\Debug\Memento.g.resources
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Memento\obj\Debug\Memento.Properties.Resources.resources
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Memento\obj\Debug\Memento.csproj.GenerateResource.Cache
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Memento\obj\Debug\Memento.exe
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Memento\obj\Debug\Memento.pdb

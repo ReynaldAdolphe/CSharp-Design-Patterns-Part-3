@@ -1,0 +1,5 @@
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Proxy\bin\Debug\Proxy.exe.config
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Proxy\bin\Debug\Proxy.exe
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Proxy\bin\Debug\Proxy.pdb
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Proxy\obj\Debug\Proxy.exe
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Proxy\obj\Debug\Proxy.pdb

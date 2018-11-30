@@ -1,0 +1,15 @@
+C:\Temp4\Exercise Files\Ch10\10_03\Begin\Bridge\bin\Debug\Bridge.exe.config
+C:\Temp4\Exercise Files\Ch10\10_03\Begin\Bridge\bin\Debug\Bridge.exe
+C:\Temp4\Exercise Files\Ch10\10_03\Begin\Bridge\bin\Debug\Bridge.pdb
+C:\Temp4\Exercise Files\Ch10\10_03\Begin\Bridge\obj\Debug\Bridge.exe
+C:\Temp4\Exercise Files\Ch10\10_03\Begin\Bridge\obj\Debug\Bridge.pdb
+C:\Temp4\Exercise Files\Ch10\10_02\Begin\Bridge\bin\Debug\Bridge.exe.config
+C:\Temp4\Exercise Files\Ch10\10_02\Begin\Bridge\bin\Debug\Bridge.exe
+C:\Temp4\Exercise Files\Ch10\10_02\Begin\Bridge\bin\Debug\Bridge.pdb
+C:\Temp4\Exercise Files\Ch10\10_02\Begin\Bridge\obj\Debug\Bridge.exe
+C:\Temp4\Exercise Files\Ch10\10_02\Begin\Bridge\obj\Debug\Bridge.pdb
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Bridge\bin\Debug\Bridge.exe.config
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Bridge\bin\Debug\Bridge.exe
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Bridge\bin\Debug\Bridge.pdb
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Bridge\obj\Debug\Bridge.exe
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Bridge\obj\Debug\Bridge.pdb

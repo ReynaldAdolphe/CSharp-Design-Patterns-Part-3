@@ -1,0 +1,6 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files DP2\Ch06\06_03\Finish\Command\bin\Debug\Command.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files DP2\Ch06\06_03\Finish\Command\bin\Debug\Command.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files DP2\Ch06\06_03\Finish\Command\bin\Debug\Command.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files DP2\Ch06\06_03\Finish\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files DP2\Ch06\06_03\Finish\Command\obj\Debug\Command.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files DP2\Ch06\06_03\Finish\Command\obj\Debug\Command.pdb

@@ -1,0 +1,5 @@
+C:\Temp4\Exercise Files\Ch10\10_02\Begin\Prototype\bin\Debug\Prototype.exe.config
+C:\Temp4\Exercise Files\Ch10\10_02\Begin\Prototype\bin\Debug\Prototype.exe
+C:\Temp4\Exercise Files\Ch10\10_02\Begin\Prototype\bin\Debug\Prototype.pdb
+C:\Temp4\Exercise Files\Ch10\10_02\Begin\Prototype\obj\Debug\Prototype.exe
+C:\Temp4\Exercise Files\Ch10\10_02\Begin\Prototype\obj\Debug\Prototype.pdb

@@ -1,0 +1,6 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files DP2\Ch02\02_03\Finish\Builder\bin\Debug\Builder.exe.config
+C:\Users\Reynald Adolphe\Desktop\Exercise Files DP2\Ch02\02_03\Finish\Builder\bin\Debug\Builder.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files DP2\Ch02\02_03\Finish\Builder\bin\Debug\Builder.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files DP2\Ch02\02_03\Finish\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files DP2\Ch02\02_03\Finish\Builder\obj\Debug\Builder.exe
+C:\Users\Reynald Adolphe\Desktop\Exercise Files DP2\Ch02\02_03\Finish\Builder\obj\Debug\Builder.pdb

@@ -1,0 +1,5 @@
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Facade\bin\Debug\Facade.exe.config
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Facade\bin\Debug\Facade.exe
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Facade\bin\Debug\Facade.pdb
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Facade\obj\Debug\Facade.exe
+C:\Temp4\Exercise Files\Ch10\10_03\Finish\Facade\obj\Debug\Facade.pdb

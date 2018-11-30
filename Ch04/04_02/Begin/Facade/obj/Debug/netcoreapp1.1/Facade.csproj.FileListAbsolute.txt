@@ -1,0 +1,9 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Facade\bin\Debug\netcoreapp1.1\Facade.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Facade\bin\Debug\netcoreapp1.1\Facade.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Facade\bin\Debug\netcoreapp1.1\Facade.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Facade\bin\Debug\netcoreapp1.1\Facade.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Facade\bin\Debug\netcoreapp1.1\Facade.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Facade\obj\Debug\netcoreapp1.1\Facade.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Facade\obj\Debug\netcoreapp1.1\Facade.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Facade\obj\Debug\netcoreapp1.1\Facade.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch04\04_03\Finish\Facade\obj\Debug\netcoreapp1.1\Facade.pdb

@@ -1,0 +1,9 @@
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\Flyweight\bin\Debug\netcoreapp1.1\Flyweight.deps.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\Flyweight\bin\Debug\netcoreapp1.1\Flyweight.runtimeconfig.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\Flyweight\bin\Debug\netcoreapp1.1\Flyweight.runtimeconfig.dev.json
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\Flyweight\bin\Debug\netcoreapp1.1\Flyweight.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\Flyweight\bin\Debug\netcoreapp1.1\Flyweight.pdb
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\Flyweight\obj\Debug\netcoreapp1.1\Flyweight.csprojResolveAssemblyReference.cache
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\Flyweight\obj\Debug\netcoreapp1.1\Flyweight.AssemblyInfo.cs
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\Flyweight\obj\Debug\netcoreapp1.1\Flyweight.dll
+C:\Users\Reynald Adolphe\Desktop\Exercise Files\Ch05\05_03\Finish\Flyweight\obj\Debug\netcoreapp1.1\Flyweight.pdb
